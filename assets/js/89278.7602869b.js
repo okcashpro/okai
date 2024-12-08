@@ -1,1 +1,1 @@
-"use strict";(self.webpackChunkeliza_docs=self.webpackChunkeliza_docs||[]).push([[89278],{89278:(e,s,c)=>{c.r(s)}}]);
+"use strict";(self.webpackChunkokai_docs=self.webpackChunkokai_docs||[]).push([[89278],{89278:(e,s,c)=>{c.r(s)}}]);
